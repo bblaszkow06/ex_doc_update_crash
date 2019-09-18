@@ -20,7 +20,7 @@ defmodule Extest.MixProject do
 
   defp deps do
     [
-      {:ex_doc, "~> 0.20.1"}
+      {:ex_doc, "~> 0.21.2"}
     ]
   end
 end
